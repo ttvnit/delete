@@ -1,1 +1,3 @@
 I am Tuan. Who are you?
+
+How to fix a conflict file?
