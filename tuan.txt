@@ -1,7 +1,3 @@
 I am Tuan. Who are you?
-
-
-How to fix a conflict file?
-
 I make a conflict file.
-
+How to fix a conflict file?
